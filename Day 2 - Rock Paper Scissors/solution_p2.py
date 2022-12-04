@@ -1,6 +1,6 @@
 """
 Advent of Code 2022
-Day 2: Rock Paper Scissors (Part One)
+Day 2: Rock Paper Scissors (Part Two)
 """
 
 # A for Rock, B for Paper, and C for Scissors
